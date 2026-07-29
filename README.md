@@ -34,13 +34,13 @@ Telegram: **@NoCode_Games**
 - ✅ Глава 3. Первый аккаунт. ChatGPT, Gmail и путь к Codex
 - ⏳ Глава 4. Первое знакомство с Codex
 - ⏳ Глава 5. Первые агенты
-- ⏳ Глава 6. Hearthhold
+- ⏳ Глава 6. Hearthold
 
 ---
 
 # 🎮 Проекты
 
-- 🏰 Hearthhold
+- 🏰 Hearthold
 - 🌳 FamilyArchive
 
 ---
